@@ -6,3 +6,7 @@
 config.txt
 
 book/_bookdown_files/
+
+*.rds
+
+book/index.utf8.md
