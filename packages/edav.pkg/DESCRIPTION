@@ -42,15 +42,11 @@ Imports: logging,
   cluster,
   tidyquant,
   choroplethr,
-  statebins,
   jsonlite,
   RCurl,
   odbc,
   DBI,
-  visNetwork
-  
-  
-  
-  
-  
-  
+  visNetwork,
+  ggplot2movies,
+  choroplethrMaps
+RoxygenNote: 6.1.1
